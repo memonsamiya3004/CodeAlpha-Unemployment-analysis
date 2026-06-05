@@ -9,7 +9,7 @@ This project digs into the data to understand when, where, and how severely
 unemployment spiked — and how recovery looked across regions.
 
 ## Dataset
-- Source: [https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india]
+- Source: https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
 ## What I Did
 - Cleaned and explored the dataset using Pandas
@@ -19,11 +19,11 @@ unemployment spiked — and how recovery looked across regions.
 - Created an interactive choropleth map to show regional unemployment patterns
 
 ## Key Findings
--  1. COVID-19 nearly doubled unemployment rates post-lockdown 
--  2. Urban unemployment is consistently higher than rural
--  3. Haryana, Tripura & Jharkhand are highest unemployment
--  4. Northeast & East zones show structurally higher rates    
--  5. Labour participation & unemployment are positively corr.
+- COVID-19 nearly doubled unemployment rates post-lockdown 
+- Urban unemployment is consistently higher than rural
+- Haryana, Tripura & Jharkhand are highest unemployment
+- Northeast & East zones show structurally higher rates    
+- Labour participation & unemployment are positively corr.
 ## Tools & Libraries
 Python | Pandas | Matplotlib | Seaborn | Plotly
 
