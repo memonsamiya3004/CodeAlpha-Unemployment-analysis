@@ -19,11 +19,11 @@ unemployment spiked — and how recovery looked across regions.
 - Created an interactive choropleth map to show regional unemployment patterns
 
 ## Key Findings
-- [ 1. COVID-19 nearly doubled unemployment rates post-lockdown ]
-  [2. Urban unemployment is consistently higher than rural]    
-  [3. Haryana, Tripura & Jharkhand are highest unemployment]  
-  [4. Northeast & East zones show structurally higher rates]    
-  [5. Labour participation & unemployment are positively corr.]
+-  1. COVID-19 nearly doubled unemployment rates post-lockdown 
+-  2. Urban unemployment is consistently higher than rural
+-  3. Haryana, Tripura & Jharkhand are highest unemployment
+-  4. Northeast & East zones show structurally higher rates    
+-  5. Labour participation & unemployment are positively corr.
 ## Tools & Libraries
 Python | Pandas | Matplotlib | Seaborn | Plotly
 
